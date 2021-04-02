@@ -2,7 +2,7 @@
 <h3>👋 Hi, I’m @PrakharPandey2729</h3>
 <h2>Student at BITS Pilani!</h2>
 
-<h5>- 👀 I’m interested in.... well, a lot of things which happen to include Physics, Sports(especially football), PC games(emphasis on competitive RL :flushed:) and much more!</h5>
+<h5>- 👀 I’m interested in.... well, a lot of things which happen to include Physics, Sports(especially football), PC games(emphasis on competitive RL :flushed:) </h5>
 <h5>- 🌱 I’m currently learning Frontend Development</h5>
 <h5>- 💞️ I’m looking to collaborate on anything and everything :)</h5>
 
