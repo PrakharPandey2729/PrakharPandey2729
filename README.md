@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 <!---<a href = ""<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>--->
 <a href = "https://www.instagram.com/p._.pandey/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-<a href = "https://discordapp.com/users/392292269807501313/"<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"></a>
+<a href = "https://discordapp.com/users/392292269807501313/"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"></a>
 
 </html>
