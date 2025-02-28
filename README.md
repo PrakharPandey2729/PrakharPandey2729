@@ -16,9 +16,9 @@
 />
 <i class="ci ci-spotify ci-2x"></i>
 
-<a href = "https://www.linkedin.com/in/prakhar-pandey-5939371a4/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"></a>
-<a href = "https://www.instagram.com/p._.pandey/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg"></a>
-<a href = "https://discordapp.com/users/392292269807501313/"><img align="left" alt="codeSTACKr | Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/discord/discord.svg"></a>
+<a href = "https://www.linkedin.com/in/prakhar-pandey-5939371a4/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg"></a>
+<a href = "https://www.instagram.com/p._.pandey/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg"></a>
+<a href = "https://discordapp.com/users/392292269807501313/"><img align="left" alt="codeSTACKr | Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg"></a>
 
 
 </html>
