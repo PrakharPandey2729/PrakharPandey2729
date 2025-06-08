@@ -2,7 +2,7 @@
 <h3>👋 Hi, I’m @PrakharPandey2729</h3>
 <h2>I'm a Final Year Student at BITS Pilani pursuing B.E.(Hons) CSE + M.Sc. Physics!</h2>
 
-<h5>- 🌱 I’m currently learning about Prompt Engineering, LangChain/LangGraph, and PanPsychism 👁️ lol</h5>
+<h5>- 🌱 I’m currently learning about Prompt Engineering, LangChain/LangGraph, and PanPsychism👁️</h5>
 <h5>- 🧠 I am also involved in Competitive Programming and like to grind on Leetcode on the regular, it keeps my brain healthy  
 <h5>- 💞️ I’m looking to collaborate on ML/AI/DL and Data Science Projects. Development too :)</h5>
 
